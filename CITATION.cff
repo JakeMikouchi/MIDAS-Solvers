@@ -1,12 +1,9 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Andersen"
-  given-names: "Brian"
-- family-names: "Delipei"
-  given-names: "Gregory"
-- family-names: "Hou"
-  given-names: "Jason"
-title: " "
-doi: 10.48550/arXiv.2204.00141
-url: "https://github.com/ardorlab/MOF"
+- family-names: Joe
+  given-names: Johnson
+orcid: https://orcid.org/0000-0000-0000-0000
+title:
+version: 1.0.0
+date-released: 2024-01-26
