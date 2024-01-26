@@ -7,8 +7,7 @@ authors:
   given-names: "Gregory"
 - family-names: "Hou"
   given-names: "Jason"
-title: "Modular Optimization Framework "
-version: 1.0
+title: " "
 doi: 10.48550/arXiv.2204.00141
 date-released: 2021-10-18
 url: "https://github.com/ardorlab/MOF"
